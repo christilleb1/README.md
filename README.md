@@ -1,3 +1,3 @@
 # Example site
-Thi is a sample site
+Thi is a sample site file 
 
